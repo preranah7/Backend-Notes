@@ -1,15 +1,15 @@
 # BACKEND
 
-Certainly! Let's dive into each of the topics in more detail, providing comprehensive explanations and examples.
+This repository covers most of the topics related to backend in detal!
 
 
-# Comprehensive Guide to Node.js
+# Node.js
 
 ## 1. Introduction to Node.js
 
 Node.js is an open-source, cross-platform runtime environment designed for executing JavaScript code outside the browser. It utilizes the V8 JavaScript engine and supports server-side scripting, making it ideal for constructing scalable and efficient network applications.
 
-## 2. Installing Node.js
+## 2. Installing Node.js(Mandatory steps to follow)
 
 ### Instructions:
 
@@ -222,7 +222,7 @@ Node.js is a powerful platform empowering developers to build a wide range of ap
 ---------------------------------------------------------------------------------------
 
 
-# Express.js In-Depth Notes
+# Express.js Detailed Notes
 
 ## What is Express.js?
 
@@ -240,7 +240,7 @@ Express.js is a minimal and flexible web application framework built on Node.js.
      npm init -y
      ```
 
-2. **Install Express:**
+2. **Installing Express:**
    - Install Express.js as a dependency using npm:
 
      ```docs
@@ -248,7 +248,7 @@ Express.js is a minimal and flexible web application framework built on Node.js.
      ```
 
 3. **Create Your Server:**
-   - Define and configure your Express application in a file (e.g., app.js):
+   - Define and configure your Express application in a file (e.g. app.js):
 
      ```javascript
      const express = require('express');
