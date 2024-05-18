@@ -1,6 +1,6 @@
 # BACKEND
 
-This repository covers most of the topics related to backend in detal!
+This repository covers most of the topics related to backend in detail!
 
 
 # Node.js
@@ -4076,4 +4076,4 @@ MVC and the use of "router.route" are essential concepts in web development, pro
 
 
 ---------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------
+
