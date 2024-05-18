@@ -26,7 +26,7 @@ node -v
 npm -v
 ```
 
-## 3. Node.js REPL (Read-Eval-Print Loop)
+## 3. Node.js REPL (Read-Evaluate-Print Loop)
 
 Node.js provides a built-in interactive environment, the REPL, allowing real-time experimentation with JavaScript code. To access the REPL, open your terminal and type `node`. A prompt (>) will appear, enabling you to input JavaScript expressions and observe immediate output.
 
