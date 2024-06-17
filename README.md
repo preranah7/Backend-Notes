@@ -1219,6 +1219,8 @@ You can interact with your MySQL database from the terminal using the MySQL comm
 
     ```bash
     mysql -u <username> -p
+    or
+    ./mysql -u <username> -p
     ```
 
     After running this command, you will be prompted to enter your MySQL password. Once you've successfully entered your password, you'll be logged in to MySQL.
