@@ -1,6 +1,6 @@
 # BACKEND
 
-This repository covers most of the topics related to backend in detail! 
+This repository covers most of the topics related to backend with code snippets in detail! 
 
 
 # Node.js
